@@ -27,8 +27,8 @@ public class Extras1_3 {
         int cuenta = numero - (cifra_1 * 100);
         int cifra_2 = cuenta / 10;
         int cifra_3 = cuenta - (cifra_2 * 10);
-        System.out.println("La primera cifra  es " + cifra_1 + " la segunda "
-                + "cifra es " + cifra_2 + " y la tercer  cifra  es "
+        System.out.println("La primera cifra es " + cifra_1 + ", la segunda "
+                + "cifra es " + cifra_2 + " y la tercera cifra es "
                 + cifra_3 + ".");
     }
 
