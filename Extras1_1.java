@@ -39,8 +39,8 @@ visualizamos.
         double recibo = teclado.nextDouble();
         double devolvo = recibo - precio_total;
         System.out.println("\t ESTABLECEMENTO\n Nº Unidades = " + unidades
-                + ".\n Precio unidade = " + precio_unidad + "€.\n Total = " 
-                + precio_total + "€.\n Recibo = " + recibo + "€.\n Devolvo = " 
+                + ".\n Precio unidade = " + precio_unidad + "€.\n Total = "
+                + precio_total + "€.\n Recibo = " + recibo + "€.\n Devolvo = "
                 + devolvo + "€.\n Grazas por vir.");
 
     }
